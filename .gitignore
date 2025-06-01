@@ -1,2 +1,4 @@
 node_modules
 .env
+.vercel
+hirevia-job-firebase-admin.json
